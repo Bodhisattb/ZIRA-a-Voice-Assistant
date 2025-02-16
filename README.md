@@ -5,7 +5,7 @@ A project to build an AI voice assistant using Python . The Voice assistant inte
 
 ### About ZIRA :
 
-![AI FINAL](https://user-images.githubusercontent.com/51138087/93668051-f7c4af00-fa3e-11ea-9b17-5913e954795f.png)
+![Image Alt](https://github.com/Bodhisattb/ZIRA-a-Voice-Assistant/blob/add7556ea4d4b7f1e3e97bc436bcc21a748c821f/1708668360931%20(1).png)
 
 
 ZIRA is an AI personal voice assistant service built using Pychram. It can understand human speech and perform basic task designed by the client.
